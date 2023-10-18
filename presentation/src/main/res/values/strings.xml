@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">presentation</string>
+    <string name="screen_home">Home</string>
+    <string name="screen_Medicine_Detail">Medicine Detail</string>
+    <string name="screen_form_add_medicine">Add Medicine</string>
+    <string name="screen_history">History</string>
+</resources>
