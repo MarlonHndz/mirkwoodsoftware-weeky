@@ -34,7 +34,7 @@ fun HomeApp() {
     Scaffold(
         bottomBar = {
             BottomNavigation (
-                backgroundColor = colorResource(id = R.color.bottomNavColor)
+                backgroundColor = colorResource(id = R.color.bottom_nav_color)
             ) {
                 val navBackStackEntry by navController.currentBackStackEntryAsState()
                 val currentDestination = navBackStackEntry?.destination

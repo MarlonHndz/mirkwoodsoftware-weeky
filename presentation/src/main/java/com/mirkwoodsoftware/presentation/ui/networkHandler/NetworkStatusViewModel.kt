@@ -1,4 +1,4 @@
-package com.mirkwoodsoftware.presentation
+package com.mirkwoodsoftware.presentation.ui.networkHandler
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
