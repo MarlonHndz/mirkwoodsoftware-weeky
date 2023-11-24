@@ -1,8 +1,7 @@
-package com.mirkwoodsoftware.presentation.ui
+package com.mirkwoodsoftware.presentation.ui.networkHandler
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
-import com.mirkwoodsoftware.presentation.NetworkStatusViewModel
 import org.koin.androidx.compose.koinViewModel
 
 @Composable

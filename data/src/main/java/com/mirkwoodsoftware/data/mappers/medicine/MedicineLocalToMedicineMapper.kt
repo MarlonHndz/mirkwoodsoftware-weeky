@@ -8,7 +8,7 @@ class MedicineLocalToMedicineMapper {
     operator fun invoke(medicineLocal: MedicineLocal): Medicine {
         return Medicine(
             id = medicineLocal.id,
-            url = medicineLocal.url
+            name = medicineLocal.url,
         )
     }
 }

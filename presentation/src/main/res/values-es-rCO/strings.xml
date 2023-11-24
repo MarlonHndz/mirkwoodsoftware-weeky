@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">presentation</string>
+    <string name="screen_home">Inicio</string>
+    <string name="screen_Medicine_Detail">Detalle de Medicamento</string>
+    <string name="screen_form_add_medicine">Agregar</string>
+    <string name="screen_history">Historial</string>
+
+    <string name="date_picker_confirm_button">Ok</string>
+    <string name="date_picker_dismiss_button">Cancel</string>
+
+    <string name="form_add_medicine_confirm_button">Guardar medicamento</string>
+    <string name="form_add_medicine_label_med_name">Nombre del medicamento</string>
+    <string name="form_add_medicine_label_expiration_date">Fecha de vencimiento</string>
+</resources>

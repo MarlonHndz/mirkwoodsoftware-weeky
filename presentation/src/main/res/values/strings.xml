@@ -4,4 +4,11 @@
     <string name="screen_Medicine_Detail">Medicine Detail</string>
     <string name="screen_form_add_medicine">Add Medicine</string>
     <string name="screen_history">History</string>
+
+    <string name="date_picker_confirm_button">Ok</string>
+    <string name="date_picker_dismiss_button">Cancel</string>
+
+    <string name="form_add_medicine_confirm_button">New medicine</string>
+    <string name="form_add_medicine_label_med_name">Medicine Name</string>
+    <string name="form_add_medicine_label_expiration_date">Expiration Date</string>
 </resources>

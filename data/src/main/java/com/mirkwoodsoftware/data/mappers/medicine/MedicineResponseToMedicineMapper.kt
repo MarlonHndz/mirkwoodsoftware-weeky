@@ -8,7 +8,7 @@ class MedicineResponseToMedicineMapper {
         return medicineResponse.result.map { data ->
             Medicine(
                 id = data.name,
-                url = data.url
+                name = data.name,
             )
         }
     }

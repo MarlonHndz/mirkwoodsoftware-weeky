@@ -7,8 +7,8 @@ class MedicineResponseToMedicineLocalMapper {
     operator fun invoke(medicineResponse: MedicineResponse): List<MedicineLocal> {
         return medicineResponse.result.map { medicineResponse ->
             MedicineLocal(
-                id = medicineResponse.name,
-                url = medicineResponse.url
+                id = "medicineResponse.name",
+                url = "asdf"
             )
         }
     }

@@ -8,5 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="bottomNavColor">#06D7C3</color>
+    <color name="bottom_nav_color">#06D7C3</color>
+    <color name="category_selector_background">#fafafa</color>
+    <color name="category_selector_tooltip_background">#d4f6f1</color>
+    <color name="category_selector_segment_btn_selected">#03DAC5</color>
 </resources>

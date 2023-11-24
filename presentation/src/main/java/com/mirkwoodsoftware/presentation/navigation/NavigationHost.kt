@@ -5,9 +5,9 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.mirkwoodsoftware.presentation.ui.FormAddMedicineScreen
+import com.mirkwoodsoftware.presentation.ui.formAddMedicine.FormAddMedicineScreen
 import com.mirkwoodsoftware.presentation.ui.HistoryScreen
-import com.mirkwoodsoftware.presentation.ui.HomeScreen
+import com.mirkwoodsoftware.presentation.ui.home.HomeScreen
 import com.mirkwoodsoftware.presentation.ui.MedDetailScreen
 
 @Composable

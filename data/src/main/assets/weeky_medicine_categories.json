@@ -1,0 +1,65 @@
+{
+  "status": 200,
+  "categories": [
+    {
+      "name": "Analgésicos",
+      "description": "Medicamentos para aliviar el dolor.",
+      "examples": "Paracetamol, Ibuprofeno, Ácido acetilsalicílico (aspirina)",
+      "categoryType": "Medicamento"
+    },
+    {
+      "name": "Antisépticos y desinfectantes",
+      "description": "Productos para limpiar y desinfectar heridas.",
+      "examples": "Alcohol isopropílico, Povidona yodada, Peróxido de hidrógeno",
+      "categoryType": "Medicamento"
+    },
+    {
+      "name": "Resfriado y la gripe",
+      "description": "Tratamientos para síntomas de resfriados y gripes.",
+      "examples": "Descongestionantes nasales, Antitusivos, Pastillas para la garganta",
+      "categoryType": "Medicamento"
+    },
+    {
+      "name": "Antihistamínicos",
+      "description": "Medicamentos para aliviar reacciones alérgicas.",
+      "examples": "Loratadina, Cetirizina, Diphenhydramine",
+      "categoryType": "Medicamento"
+    },
+    {
+      "name": "Dolor muscular",
+      "description": "Tratamientos para aliviar el dolor muscular.",
+      "examples": "Crema analgésica, Parches de calor, Relajantes musculares",
+      "categoryType": "Medicamento"
+    },
+    {
+      "name": "Quemaduras y picaduras",
+      "description": "Productos para tratar quemaduras y picaduras.",
+      "examples": "Pomada para quemaduras, Crema de hidrocortisona para picaduras, Antihistamínicos para reacciones alérgicas",
+      "categoryType": "Medicamento"
+    },
+    {
+      "name": "Material de soporte vital básico",
+      "description": "Elementos esenciales para primeros auxilios básicos.",
+      "examples": "Mascarilla de RCP, Guantes desechables, Toallitas antisépticas",
+      "categoryType": "Utensilio"
+    },
+    {
+      "name": "Vendas y apósitos",
+      "description": "Materiales para cubrir y proteger heridas.",
+      "examples": "Vendajes elásticos, Apósitos adhesivos, Gasa estéril",
+      "categoryType": "Utensilio"
+    },
+    {
+      "name": "Antiinflamatorios tópicos",
+      "description": "Cremas y ungüentos para reducir la inflamación local.",
+      "examples": "Crema de hidrocortisona, Gel de ibuprofeno, Ungüento de diclofenaco",
+      "categoryType": "Utensilio"
+    },
+    {
+      "name": "Material de curación",
+      "description": "Instrumentos para realizar curaciones básicas.",
+      "examples": "Tijeras para vendajes, Pinzas, Termómetro",
+      "categoryType": "Utensilio"
+    }
+  ]
+}

@@ -4,15 +4,18 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.mirkwoodsoftware.data.localDataSource.models.MedicineLocal
+import com.mirkwoodsoftware.data.localDataSource.daos.CategoryDao
 import com.mirkwoodsoftware.data.localDataSource.daos.MedicineDao
+import com.mirkwoodsoftware.data.localDataSource.models.CategoryLocal
+import com.mirkwoodsoftware.data.localDataSource.models.MedicineLocal
 
 @Database(
-    entities = [MedicineLocal::class],
+    entities = [MedicineLocal::class, CategoryLocal::class],
     version = AppDatabase.DATABASE_VERSION
 )
 abstract class AppDatabase : RoomDatabase() {
     abstract fun MedicineDao(): MedicineDao
+    abstract fun CategoryDao(): CategoryDao
 
     companion object {
         fun getInstance(context: Context): AppDatabase {
